@@ -1,0 +1,2 @@
+puts 'Init app.rb'
+
